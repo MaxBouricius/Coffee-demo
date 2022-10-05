@@ -1,0 +1,22 @@
+.section{
+    padding-bottom: 6rem;
+}
+.section__header{
+    padding: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EEE;
+    font-size: 6rem;
+    gap: 2rem;
+}
+.section__h2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+}
+.section__wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+}
